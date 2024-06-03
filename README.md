@@ -1,1 +1,1 @@
-This is basic pong game made in Java. 
+This is a basic pong game made in Java. 
